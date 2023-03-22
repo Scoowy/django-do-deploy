@@ -9,7 +9,7 @@ services:
       - db
     build: ./fuzzysystem
     volumes:
-      - ./fuzzysystem:/  # djangoapp mounted to docker from current directory
+      - ./fuzzysystem:/fuzzysystem  # djangoapp mounted to docker from current directory
       - ./fuzzysystem/static:/static # adding static & media file for django
       - ./fuzzysystem/media:/media
     command: ./fuzzysystem/entrypoint.sh # execute bashfile we've created before
