@@ -1,6 +1,4 @@
-FROM ubuntu:latest
-RUN apt-get update && apt-get install --no-install-recommends --no-install-suggests -y \
-    python3-pip python3-setuptools python3-dev && rm -rf /var/lib/apt/lists/*
+FROM python:3.11.2
 
 ENV LANG C.UTF-8
 ENV LC_ALL C.UTF-8
