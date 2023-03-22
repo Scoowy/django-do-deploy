@@ -10,4 +10,6 @@ RUN pip3 install -r requirements.txt
 
 RUN chmod +x /fuzzysystem/entrypoint.sh
 
+EXPOSE 8000
+
 ENTRYPOINT ["sh", "/fuzzysystem/entrypoint.sh"]  # eksekusi bash file entrypoint
