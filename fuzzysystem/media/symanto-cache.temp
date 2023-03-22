@@ -1,0 +1,4174 @@
+{
+ "Si responde oportunamente las inquietudes que tenemos.": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.95205
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.77474
+   }
+  ]
+ },
+ "Si": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.69701
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.94387
+   }
+  ]
+ },
+ "Siempre": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.34692
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.9992
+   }
+  ]
+ },
+ "S\u00ed, imparte clases muy interactivas e interesantes y se muestra el amor que tienes en su trabajo": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.67715
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.51477
+   }
+  ]
+ },
+ "Por supuesto": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.66486
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.61325
+   }
+  ]
+ },
+ "Escucha todas y cada una de nuestras aportaciones o interacci\u00f3nes sin importar la cantidad de personas que queremos interactuar": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.73133
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.98109
+   }
+  ]
+ },
+ "Si, nos explica nuevamente de ser necesario": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.51736
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99166
+   }
+  ]
+ },
+ "Si de hecho hace que la materia se vuelva super interesante": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.58549
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.7469
+   }
+  ]
+ },
+ "Siempre es un excelente docente y aparte un gran ser humano": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.82881
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.99738
+   }
+  ]
+ },
+ "Por supuesto que si el Docente siempre ha estado abierto a atender mis inquietudes": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.74752
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.84732
+   }
+  ]
+ },
+ "Claro que si, el maestro siempre ha estado abierto para dar cualquier soluci\u00f3n": {
+  "emocion": [
+   {
+    "prediction": "surprise",
+    "probability": 0.41084
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.90602
+   }
+  ]
+ },
+ "Claro que si, siempre es respetuoso y amable con los alumnos": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.39781
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.99281
+   }
+  ]
+ },
+ "Si claro, siempre ha estado pendiente cuando tengo alguna inquietud": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.83709
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.86604
+   }
+  ]
+ },
+ "M\u00e1s en las dificultades acad\u00e9micas porque es en eso donde m\u00e1s necesito ayuda": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.79238
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.9419
+   }
+  ]
+ },
+ "Por cuestiones tecnol\u00f3gicas a veces  resulta un poco complicado ubicar al docente por la distancia": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.81451
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99571
+   }
+  ]
+ },
+ "Claro que si, el docente cuando he tenido alg\u00fan problema con los trabajos siempre me ha dado una respuesta clara": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.92767
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.8785
+   }
+  ]
+ },
+ "Si, cuando estamos en clases, siempre nos motiva y nos explica con claridad lo que tenemos que hacer": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.36587
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.98502
+   }
+  ]
+ },
+ "Si, el docente est\u00e1 siempre dispuesto a ayudar a sus estudiantes en cualquier tema que no haya quedado claro": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.83268
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.9868
+   }
+  ]
+ },
+ "Si, el maestro demuestra sus conocimientos los cuales nos inculca y nos da confianza lo que aprendemos": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.54595
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.81097
+   }
+  ]
+ },
+ "S\u00ed, siempre est\u00e1 pendiente de lo que sus estudiantes necesitan y respeta las opiniones de todos.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.42124
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.96939
+   }
+  ]
+ },
+ "Claro, por todos los canales que encontramos en Eva": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.41243
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.98565
+   }
+  ]
+ },
+ "Si ya que con su sabidur\u00eda ayuda al d\u00eda a d\u00eda en lo personal y acad\u00e9micas": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.37509
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.50918
+   }
+  ]
+ },
+ "Si por los canales que los facilitan en Eva": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.89997
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.97574
+   }
+  ]
+ },
+ "Si, realiza un estudio de cada uno de sus estudiantes y bas\u00e1ndose en eso  realiza su clase m\u00e1s did\u00e1ctica": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.99039
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99684
+   }
+  ]
+ },
+ "Si . Ya que hace que el contenido que los da sea de inter\u00e9s": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.93616
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.91749
+   }
+  ]
+ },
+ "Nuestro docente siempre est\u00e1 a las disposici\u00f3n cuando lo necesitamos": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.89392
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.86655
+   }
+  ]
+ },
+ "si nos da la confianza para poder preguntar cualquier inquietud": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.97663
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.8879
+   }
+  ]
+ },
+ "si el est\u00e1 siempre pendiente al cambio": {
+  "emocion": [
+   {
+    "prediction": "sadness",
+    "probability": 0.67423
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.90773
+   }
+  ]
+ },
+ "No": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.91099
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.80067
+   }
+  ]
+ },
+ "Claro que si.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.55681
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.94999
+   }
+  ]
+ },
+ "No se me a ofrecido.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.57052
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.86634
+   }
+  ]
+ },
+ "Siempre dispuesto y abierto para atender nuestras dudas y ampliar los conocimientos de sus alumnos": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.91556
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.94121
+   }
+  ]
+ },
+ "Bastante confianza y empatia en el momento de escuchar nuestros problemas e inquietudes": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.91667
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.99552
+   }
+  ]
+ },
+ "Muy respetuoso, atento y amable para ayudarnos cuando lo necesitamos": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.90679
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.9911
+   }
+  ]
+ },
+ "Siempre lo hice a trav\u00e9s de la plataforma Canva": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.4069
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99939
+   }
+  ]
+ },
+ "Siempre en las dificultades acad\u00e9micas est\u00e1 dispuesto a ayudarnos y guiar nuestros trabajos": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.93676
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.73637
+   }
+  ]
+ },
+ "Siempre por la plataforma Canva": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.43104
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.97435
+   }
+  ]
+ },
+ "No ha habido necesidad, sus clases siempre fueron muy claras": {
+  "emocion": [
+   {
+    "prediction": "surprise",
+    "probability": 0.37396
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.80948
+   }
+  ]
+ },
+ "Por su puesto, siempre nos dice que contrastemos con otras fuentes de los temas planteados.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.73734
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99192
+   }
+  ]
+ },
+ "Siempre est\u00e1 dispuesto a ayudarnos y al tanto de las inquietudes que existen": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.98447
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.803
+   }
+  ]
+ },
+ "Ha demostrado cierto apoyo ya que no he tenido muchos problemas": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.50225
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.975
+   }
+  ]
+ },
+ "Muy buena persona, carism\u00e1tico y buena persona, siempre nos ayuda acerca de los temas de la materia.": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.75487
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.85335
+   }
+  ]
+ },
+ "El profe siempre responde cualquier duda, ya sea mediante las tutor\u00edas o en la bandeja de entrada.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.53475
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99512
+   }
+  ]
+ },
+ "De vez en cuando hay dudas o cosas de retroalimentar el profe siempre est\u00e1 para ayudarnos en lo acad\u00e9mico. Los asuntos personales son aparte, y para esos casos no he solicitado al docente.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.52303
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99832
+   }
+  ]
+ },
+ "Al estar en esta modalidad virtual lo contacta mediante la bandeja de entrada o correo institucional": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.70331
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99973
+   }
+  ]
+ },
+ "Pues si, Siempre est\u00e1 al tanto retroalimentando conocimientos mediante comentarios al final de cada actividad calificada": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.8359
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.97333
+   }
+  ]
+ },
+ "La verdad si, ha sido una bonita materia la cual me gusto desde el inicio del ciclo. Esta asignatura ha motivado a seguir estudi\u00e1ndola y descubriendo cosas nuevas.": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.97169
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.88226
+   }
+  ]
+ },
+ "Si,  siempre; es excelente docente porque est\u00e1 atento a resolver todas las dudas que tengamos, no le importa si tiene que dar m\u00e1s tiempo del se\u00f1alado en si tutoria.": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.85388
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.76736
+   }
+  ]
+ },
+ "Bastante porque no da temor equivocarse con El, tiene un don de gente que le hace cercano y amistoso a sus alumnos": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.98148
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.54387
+   }
+  ]
+ },
+ "Si todo el tiempi porque escucha con atenci\u00f3n, te da importancia a lo que preguntas. A pesar de que repitan los compa\u00f1eros la misma pregunta varias veces.": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.38029
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99882
+   }
+  ]
+ },
+ "Constantemente esta disponible en el Canvas y su don de gentes a permitido que mi persona y compa\u00f1eros le tengamos confianza.": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.6435
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.94138
+   }
+  ]
+ },
+ "Si claro, cuando hay dificultades en las tareas especialmente cuando da su tutoria, nos hace trabajar en grupos para relacionarnos entre todos y comprender mejor el tema, metodolog\u00eda que es \u00fanica en El, ning\u00fan otro docente lo ha hecho hasta el momento.": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.54786
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99644
+   }
+  ]
+ },
+ "Hasta ahora no he tenido ninguna dificultad con su meter\u00eda y si lo hubiera tenido seguro que me ayudar\u00eda inmediatamente.": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.88531
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99839
+   }
+  ]
+ },
+ "Si, antes de empezar la tutoria nos pregunta si hemos tenido alguna novedad al realizar las actividades de la semana, para empezar clarificando nuestras dudas.": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.34672
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99705
+   }
+  ]
+ },
+ "Todo el tiempo.Ah enviado link anexos al tema, sugerencia de p\u00e1ginas que deja en el camvas para ampliar nuestros conocimientos, tambi\u00e9n v\u00eddeos propios de la materia que conparte en las tutorias ayud\u00e1ndonos a comprender con rapidez la unidad.Oh tambi\u00e9n invitando a talleres programados sobre la materia con otras personas que nos ayudan en alg\u00fan tema de la Unidad.": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.96682
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.98857
+   }
+  ]
+ },
+ "si mediante el correo es una de las opciones.": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.96091
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99732
+   }
+  ]
+ },
+ "Si, siempre": {
+  "emocion": [
+   {
+    "prediction": "sadness",
+    "probability": 0.54762
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.96706
+   }
+  ]
+ },
+ "Si me ayuda a resolver mis problemas": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.98523
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.96789
+   }
+  ]
+ },
+ "S\u00ed, es respetuoso y atento": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.58186
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.99775
+   }
+  ]
+ },
+ "Si siempre puedo contar con su ayuda": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.33963
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.54297
+   }
+  ]
+ },
+ "Si, pues los horarios de tutor\u00eda y el correo son de gran ayuda": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.36092
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.71822
+   }
+  ]
+ },
+ "Muchas de las veces pero no es emp\u00e1tica al entender que a veces nos pasamos de la hora de entrega del canvas por motivos personales y no recibe trabajos atrasados": {
+  "emocion": [
+   {
+    "prediction": "sadness",
+    "probability": 0.56076
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99402
+   }
+  ]
+ },
+ "Si, pero no da soluci\u00f3n": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.53823
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.9787
+   }
+  ]
+ },
+ "S\u00ed, pero no pasa a m\u00e1s.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.83133
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.96361
+   }
+  ]
+ },
+ "A veces": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.42791
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.87846
+   }
+  ]
+ },
+ "Si lo demuestra": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.98145
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.90138
+   }
+  ]
+ },
+ "No s\u00e9 d\u00f3nde la ubicar\u00e1.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.63195
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99473
+   }
+  ]
+ },
+ "M\u00e1s o menos": {
+  "emocion": [
+   {
+    "prediction": "sadness",
+    "probability": 0.59199
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.91617
+   }
+  ]
+ },
+ "Academicas si, personales no": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.84896
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.65289
+   }
+  ]
+ },
+ "Nouuu": {
+  "emocion": [
+   {
+    "prediction": "surprise",
+    "probability": 0.98295
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.98677
+   }
+  ]
+ },
+ "La mayor\u00eda de las veces": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.44663
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.51719
+   }
+  ]
+ },
+ "Fuera del aula no": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.25327
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.90123
+   }
+  ]
+ },
+ "Si, la docente est\u00e1 dispuesta a atender cualquier inquietud": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.5632
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.98466
+   }
+  ]
+ },
+ "Si, la docente demuestra confianza ante cualquier problema": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.97439
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99817
+   }
+  ]
+ },
+ "Si, la docente siempre es respetuosa ante cualquier inquietud.": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.72233
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.77664
+   }
+  ]
+ },
+ "Si, la docente est\u00e1 dispuesta a la comunicaci\u00f3n con el estudiante": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.97671
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99935
+   }
+  ]
+ },
+ "En dificultades acad\u00e9micas la docente est\u00e1 dispuesta a ayudat": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.47006
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.97936
+   }
+  ]
+ },
+ "Si, la docente logra detectar cualquier dificultad del alumno": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.78277
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99959
+   }
+  ]
+ },
+ "No lo s\u00e9": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.91158
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.8683
+   }
+  ]
+ },
+ "Si, el docente si demuestra confianza": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.78316
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.80719
+   }
+  ]
+ },
+ "S\u00ed, la mayor\u00eda de las veces": {
+  "emocion": [
+   {
+    "prediction": "sadness",
+    "probability": 0.49174
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.74533
+   }
+  ]
+ },
+ "En mi caso, en dificultades acad\u00e9micas en realidad": {
+  "emocion": [
+   {
+    "prediction": "surprise",
+    "probability": 0.48053
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.92356
+   }
+  ]
+ },
+ "No se me ha presentado, pero creo que s\u00ed es f\u00e1cil localizarla": {
+  "emocion": [
+   {
+    "prediction": "sadness",
+    "probability": 0.5088
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.9967
+   }
+  ]
+ },
+ "Si est\u00e1": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.81526
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.80636
+   }
+  ]
+ },
+ "No, pero porque no creo tener ese nivel de confianza": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.64656
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.7925
+   }
+  ]
+ },
+ "Si lo es": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.863
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.7434
+   }
+  ]
+ },
+ "Acad\u00e9micas si, al menos si se trata de su materia pero personales no, c\u00f3mo dije no tenemos ese nivel de confianza": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.94272
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.67016
+   }
+  ]
+ },
+ "No, porque no se c\u00f3mo llegar a su oficina etc.": {
+  "emocion": [
+   {
+    "prediction": "sadness",
+    "probability": 0.49032
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.95947
+   }
+  ]
+ },
+ "Aveces cuando es pertinente": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.3478
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.92645
+   }
+  ]
+ },
+ "Solo academicas": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.51441
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.80443
+   }
+  ]
+ },
+ "No s\u00e9": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.90245
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.53443
+   }
+  ]
+ },
+ "A veces no lo hace": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.88797
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99279
+   }
+  ]
+ },
+ "A veces si a veces se encuentra de mal humor": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.98012
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.93053
+   }
+  ]
+ },
+ " ya que somos demasiados estudiantes": {
+  "emocion": [
+   {
+    "prediction": "sadness",
+    "probability": 0.86338
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.81216
+   }
+  ]
+ },
+ "Si me ayuda": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.57696
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.87971
+   }
+  ]
+ },
+ "Si puedo": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.57074
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.75884
+   }
+  ]
+ },
+ "Pocas veces": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.497
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.81655
+   }
+  ]
+ },
+ "Si lo hace siempre": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.53288
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.67137
+   }
+  ]
+ },
+ "En ocasiones, tal vez por el tiempo, no lo hace.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.32989
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99661
+   }
+  ]
+ },
+ "De vez en cuando": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.32535
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.52279
+   }
+  ]
+ },
+ "Por el exceso de temas de materia, muchas veces no le presta suficiente atenci\u00f3n a las dudas de los estudiantes.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.60019
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99189
+   }
+  ]
+ },
+ "No suele pasar": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.55414
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99098
+   }
+  ]
+ },
+ "Por mi falta de conocimiento no s\u00e9 d\u00f3nde buscarla": {
+  "emocion": [
+   {
+    "prediction": "sadness",
+    "probability": 0.52653
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.9609
+   }
+  ]
+ },
+ "La gran mayor\u00eda de veces": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.56285
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.629
+   }
+  ]
+ },
+ "La gran mayor\u00eda de veces si": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.91853
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.6017
+   }
+  ]
+ },
+ "La mayor\u00eda de veces si": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.92669
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.70601
+   }
+  ]
+ },
+ "S\u00ed, siempre est\u00e1 dispuesta a despejar cualquier duda.": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.52156
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99248
+   }
+  ]
+ },
+ "Si, demuestra confianza y compromiso": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.92738
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.87849
+   }
+  ]
+ },
+ "S\u00ed, la mayor parte del tiempo": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.51821
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.52409
+   }
+  ]
+ },
+ "Si lo hace": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.73065
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.90606
+   }
+  ]
+ },
+ "Si la mayor\u00eda de veces": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.63732
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.75905
+   }
+  ]
+ },
+ "La mayor\u00eda de veces dentro del aula o por la plataforma.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.77093
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99985
+   }
+  ]
+ },
+ "S\u00ed, un poco.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.89746
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.96416
+   }
+  ]
+ },
+ "No mucho": {
+  "emocion": [
+   {
+    "prediction": "sadness",
+    "probability": 0.88837
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.98803
+   }
+  ]
+ },
+ "Si demuestra su confianza": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.64674
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.79335
+   }
+  ]
+ },
+ "Si es respetuoso cuando algo no entiendo mejor o levanto mi mano me atiende.": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.98165
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.65381
+   }
+  ]
+ },
+ "Si es ta dispuesta": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.74513
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.98651
+   }
+  ]
+ },
+ "No porque solo tenemos clases": {
+  "emocion": [
+   {
+    "prediction": "sadness",
+    "probability": 0.88524
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.83111
+   }
+  ]
+ },
+ "S\u00ed, porque se en cu\u00e1l \u00e1rea pasa": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.73835
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99696
+   }
+  ]
+ },
+ "No las detecta solo despu\u00e9s de un examen mal dado": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.4963
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99714
+   }
+  ]
+ },
+ "A veces si lo hace": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.93997
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.95906
+   }
+  ]
+ },
+ "No del todo": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.41035
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.97957
+   }
+  ]
+ },
+ "Un poco": {
+  "emocion": [
+   {
+    "prediction": "surprise",
+    "probability": 0.83849
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.99032
+   }
+  ]
+ },
+ "Masomenos": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.96352
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.74659
+   }
+  ]
+ },
+ "No tanto": {
+  "emocion": [
+   {
+    "prediction": "sadness",
+    "probability": 0.45206
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.97926
+   }
+  ]
+ },
+ "Si siempre": {
+  "emocion": [
+   {
+    "prediction": "sadness",
+    "probability": 0.57918
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.97148
+   }
+  ]
+ },
+ "Rara vez": {
+  "emocion": [
+   {
+    "prediction": "sadness",
+    "probability": 0.4052
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.9456
+   }
+  ]
+ },
+ "Si demuestra confianza": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.71848
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.73961
+   }
+  ]
+ },
+ "La mayor\u00eda de veces": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.6117
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.62183
+   }
+  ]
+ },
+ "S\u00ed, algunas veces": {
+  "emocion": [
+   {
+    "prediction": "surprise",
+    "probability": 0.32801
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.82769
+   }
+  ]
+ },
+ "No puedo ubicarla": {
+  "emocion": [
+   {
+    "prediction": "sadness",
+    "probability": 0.52566
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.98143
+   }
+  ]
+ },
+ "Algunas veces": {
+  "emocion": [
+   {
+    "prediction": "surprise",
+    "probability": 0.4171
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.89597
+   }
+  ]
+ },
+ "En gran medida, pero le falta un poco m\u00e1s de paciencia, ya que va muy r\u00e1pido con las clases.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.56732
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99346
+   }
+  ]
+ },
+ "En poca medida, ya que solo llega a dar clases sin nada de explicaci\u00f3n clara.": {
+  "emocion": [
+   {
+    "prediction": "sadness",
+    "probability": 0.4101
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99798
+   }
+  ]
+ },
+ "En media medida, est\u00e1 atenta, intenta ayudar pero no es suficiente ya que la mayor\u00eda de estudiantes se confunde en sus clases.": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.82974
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.91379
+   }
+  ]
+ },
+ "En poca medida.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.79226
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.7679
+   }
+  ]
+ },
+ "En poca medida, ya que no hay una explicaci\u00f3n clara y eficaz.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.73946
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99868
+   }
+  ]
+ },
+ "En poca medida, ya que no hay mucha informaci\u00f3n al respecto.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.71316
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99728
+   }
+  ]
+ },
+ "Siempre resuelve dudas sobre los temas en clase": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.82964
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.52674
+   }
+  ]
+ },
+ "Si, demuestra confianza y conocimiento del tema": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.98664
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99545
+   }
+  ]
+ },
+ "Si, es respetuosa y atenta con nosotros": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.97989
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.9903
+   }
+  ]
+ },
+ "Si brinda espacios para comunicarse con todos en la clase": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.59202
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.93527
+   }
+  ]
+ },
+ "Si, brinda soporte a los alumnos": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.49379
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.97042
+   }
+  ]
+ },
+ "Si, nos ha avisado varias veces en donde suele pasar y los horarios en los que la podemos encontrar f\u00e1cilmente": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.61963
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.9994
+   }
+  ]
+ },
+ "S\u00ed, he intentado resolver mis dificultades y las de mis compa\u00f1eros": {
+  "emocion": [
+   {
+    "prediction": "sadness",
+    "probability": 0.4492
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99487
+   }
+  ]
+ },
+ "Si, nos invita a investigar para entender mejor la profundidad de los temas tratados en clase": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.77599
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99692
+   }
+  ]
+ },
+ "Si, cuando uno toma la iniciativa de buscarla las inquietudes son las respuestas.": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.82277
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99818
+   }
+  ]
+ },
+ "Es un poco intimidante": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.88576
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.94226
+   }
+  ]
+ },
+ "S\u00ed, es respetuoso": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.53817
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.99404
+   }
+  ]
+ },
+ "Si, sus canales de comunicaci\u00f3n est\u00e1n abiertos": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.74832
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99777
+   }
+  ]
+ },
+ "No he tenido la oportunidad de hablar de esos temas con el docente": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.92678
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.98253
+   }
+  ]
+ },
+ "No he tenido la oportunidad de tener que ubicarla": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.40016
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99345
+   }
+  ]
+ },
+ "Suele comprender las a\u00e9reas en donde hay dificultades pero podr\u00eda hacer m\u00e1s para reforzarlas.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.73096
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99634
+   }
+  ]
+ },
+ "Si, ha enviado varias tareas de investigaci\u00f3n": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.98867
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99863
+   }
+  ]
+ },
+ "Claro, siempre que se presentan dudas, est\u00e1 dispuesta a reexplicar conceptos y resolver dudas.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.69506
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99488
+   }
+  ]
+ },
+ "S\u00ed, me avisa que voy de buena forma y si no, que lo repiense de otra forma": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.3453
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.98033
+   }
+  ]
+ },
+ "Tal vez no presencialmente, pero siempre est\u00e1 abierto el espacio de la bandeja de entrada.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.83055
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99974
+   }
+  ]
+ },
+ "Solamente acad\u00e9micas.": {
+  "emocion": [
+   {
+    "prediction": "surprise",
+    "probability": 0.63155
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.9624
+   }
+  ]
+ },
+ "No he tenido una experiencia as\u00ed, pero cualquier cosa, se habla de la bandeja de entrada.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.83605
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99769
+   }
+  ]
+ },
+ "Sinceramente no": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.53636
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.99305
+   }
+  ]
+ },
+ "Sinceramente s\u00ed.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.59816
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.83495
+   }
+  ]
+ },
+ "El docente si es respetuoso cuando necesito ayuda.": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.97383
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.80443
+   }
+  ]
+ },
+ "Desconozco, no lo he intentado": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.59751
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.80838
+   }
+  ]
+ },
+ "En las dificultades acad\u00e9micas s\u00ed": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.77551
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.83906
+   }
+  ]
+ },
+ "El docente me motiva a realizar actividades de investigaci\u00f3n.": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.45342
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.98378
+   }
+  ]
+ },
+ "S\u00ed, siempre nos ayuda con nuestras inquietudes": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.93134
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.96251
+   }
+  ]
+ },
+ "Si, ella siempre trata de entender mi respuesta para corregir mi error": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.82686
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.98838
+   }
+  ]
+ },
+ "S\u00ed, siempre nos escucha": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.85792
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.91892
+   }
+  ]
+ },
+ "Si, siempre est\u00e1 dispuesta a escucharnos": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.53791
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.89467
+   }
+  ]
+ },
+ "Si, ella desde el \u00fanico nos dijo donde la pod\u00edamos encontrar": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.38772
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.94629
+   }
+  ]
+ },
+ "Si, como dije antes es muy comprensible tratando de entendernos para corregir nuestros errores": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.38407
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.94383
+   }
+  ]
+ },
+ "Si, siempre est\u00e1 dici\u00e9ndonos que investiguemos m\u00e1s de lo que es el tema a fondo siempre es m\u00e1s interesante": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.6668
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.89355
+   }
+  ]
+ },
+ "No siempre": {
+  "emocion": [
+   {
+    "prediction": "sadness",
+    "probability": 0.90898
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.98933
+   }
+  ]
+ },
+ "Casi siempre": {
+  "emocion": [
+   {
+    "prediction": "sadness",
+    "probability": 0.79702
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.98681
+   }
+  ]
+ },
+ "Si, de manera un poco clara, pues la mayor\u00eda de veces arrancamos muy r\u00e1pido y hay algunas personas rezagadas que necesitan una explicaci\u00f3n m\u00e1s pausada, sin embargo no lo hay.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.67799
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99963
+   }
+  ]
+ },
+ "En su mayor\u00eda; ya que no siempre la maestra acostumbra a transmitir aquel forma de comunicaci\u00f3n.": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.58996
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99744
+   }
+  ]
+ },
+ "Si, la docente es amable al hacerlo, si se trata de dudas igualmente cumple con ello de forma igualitaria.": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.84328
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.63083
+   }
+  ]
+ },
+ "Si, ya que cada uno de los alumnos presentamos problemas y ella los resuelve individualmente con cada uno, haciendo mucho m\u00e1s placentera la correcci\u00f3n de errores.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.74789
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99958
+   }
+  ]
+ },
+ "En su gran mayor\u00eda s\u00ed. Esto es as\u00ed ya que cuando estamos en alg\u00fan problema en relaci\u00f3n a la materia ella nos ayuda.": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.832
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99585
+   }
+  ]
+ },
+ "No, ya que ella no informa donde estar\u00e1 despu\u00e9s de clase, de tal forma se desconoce.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.42083
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99612
+   }
+  ]
+ },
+ "Si, ya que detecta cuando el alumno o alumnos se les dificulta y asigna actividades de recuperaci\u00f3n de aprendizaje, m\u00e1s no calificables.": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.94225
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99944
+   }
+  ]
+ },
+ "Si, ya que los temas no los profundiza a tal punto de ense\u00f1arnos todo, con el fin de buscar por nuestra cuenta y medios las respuestas.": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.51694
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99949
+   }
+  ]
+ },
+ "S\u00ed, personalmente, en cada momento que tuve inquietudes, la docente las atendi\u00f3 inmediatamente.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.65904
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.96638
+   }
+  ]
+ },
+ "Si, su estrategia de docencia fomenta ampliamente la confianza entre docente y alumnos": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.92471
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99146
+   }
+  ]
+ },
+ "Si, siempre est\u00e1 abierta a dudas y preguntas, y su primera acci\u00f3n es siempre solucionar las inquietudes as\u00ed puedan resultar muy obvias.": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.45785
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99276
+   }
+  ]
+ },
+ "Si, la docente fomenta un marco de confianza y comunicaci\u00f3n.": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.8169
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.97535
+   }
+  ]
+ },
+ "Si, en todo lo que est\u00e1 a su alcance, la docente siempre muestra su inter\u00e9s por ayudar.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.43974
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.93915
+   }
+  ]
+ },
+ "Si, cuando no est\u00e1 en clases es normal encontrarla en su oficina": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.62031
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99613
+   }
+  ]
+ },
+ "Si, la docente incluso, en su prparaci\u00f3n de la clase, logra adelantarse a varias inquietudes que puedan surgir en las clases": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.6722
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.9918
+   }
+  ]
+ },
+ "Si, la materia como tal posee una naturaleza investigativa, y la docente constantemente recuerda y motiva a adentrarse m\u00e1s en las nociones explicadas en clase.": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.73149
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99191
+   }
+  ]
+ },
+ "Si, explica lo que necesitamos": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.86663
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.98878
+   }
+  ]
+ },
+ "Un poco, debido a que las clases son un poco r\u00e1pidas pues como que no da resoluci\u00f3n de problemas": {
+  "emocion": [
+   {
+    "prediction": "surprise",
+    "probability": 0.44596
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.98811
+   }
+  ]
+ },
+ "Creo que si": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.80633
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.7649
+   }
+  ]
+ },
+ "Si, pasa en su oficina": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.60541
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.98079
+   }
+  ]
+ },
+ "Si, pero tomar acciones casi no mucho": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.98047
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.83749
+   }
+  ]
+ },
+ "Si, hago investigaci\u00f3n en casa": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.55757
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.98024
+   }
+  ]
+ },
+ "Si, en caso de ser necesario ampl\u00eda un poco para dar a entender con claridad la inquietud planteada.": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.97382
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99877
+   }
+  ]
+ },
+ "Si, adicionalmente demuestra que domina el material.": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.57961
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.9941
+   }
+  ]
+ },
+ "Si, ya sea dentro de horas de clase, tutor\u00edas o con respecto a talleres o proyectos ayuda con las inquietudes del estudiante.": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.35039
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.9971
+   }
+  ]
+ },
+ "Si, el docente usa correctamente sus horas de clase y revisa los canales de comunicaci\u00f3n.": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.98501
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99979
+   }
+  ]
+ },
+ "S\u00ed, ayuda en cuanto a las dificultades acad\u00e9micas. Sin embargo no puedo responder en cuanto a dificultades personales ya que no se presentaron durante el presente periodo acad\u00e9mico.": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.83168
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99818
+   }
+  ]
+ },
+ "Si, se pregunta  previamente su disponibilidad incluso para facilitar el lugar de encuentro. Ya sea en aula o en la secci\u00f3n o departamento donde se encuentran las oficinas de la planta docente.": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.48518
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99992
+   }
+  ]
+ },
+ "Si, plantea preguntas durante la clase para la participaci\u00f3n de estos y de esta manera detecta las dificultades existentes.": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.96871
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99853
+   }
+  ]
+ },
+ "Si, adicionalmente explica brevemente la tem\u00e1tica para que el estudiante se sepa adecuadamente hacia donde orientarse durante la investigaci\u00f3n.": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.98304
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99799
+   }
+  ]
+ },
+ "s\u00ed, siempre": {
+  "emocion": [
+   {
+    "prediction": "sadness",
+    "probability": 0.68686
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.99387
+   }
+  ]
+ },
+ "s\u00ed, pero aun as\u00ed siento que es complicado decirle algo, por temor a no entender su explicacion": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.9966
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.85338
+   }
+  ]
+ },
+ "si, se le puede preguntar cualquier cosa": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.92348
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99461
+   }
+  ]
+ },
+ "s\u00ed, supongo que s\u00ed, no lo he utilizado pero estoy seguro que si": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.7823
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.98713
+   }
+  ]
+ },
+ "no, existe veces que nos atrasamos en los taller y la ing va muy rapido": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.42837
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99602
+   }
+  ]
+ },
+ "s\u00ed, pasa en su oficina": {
+  "emocion": [
+   {
+    "prediction": "surprise",
+    "probability": 0.51066
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99413
+   }
+  ]
+ },
+ "si detecta mis dificultades, pero no hace nada al respecto la mayor\u00eda de veces, simplemente nos pone mala nota": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.8404
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.97284
+   }
+  ]
+ },
+ "no, siento que muchas veces no existe una estructura bien definida para resolver algo": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.85289
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.72653
+   }
+  ]
+ },
+ "Es una genial profesora, siempre atiende las dudas y te quedan ganas de seguir aprendiendo.": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.62112
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.94093
+   }
+  ]
+ },
+ "Es una mujer muy capaz y sabe lo que dice.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.78899
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.67041
+   }
+  ]
+ },
+ "Es una mujer muy respetuosa.": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.49798
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.98925
+   }
+  ]
+ },
+ "Si siempre se queda al final de la clase atendiendo los problemas de los estudiantes": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.85091
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.76282
+   }
+  ]
+ },
+ "si es super comprensiva.": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.45712
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.95119
+   }
+  ]
+ },
+ "si siempre est\u00e1 pendiente ante nuestras dudas": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.98899
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.75652
+   }
+  ]
+ },
+ "Si el docente siempre est\u00e1 dispuesto a atender inquietudes no solo de la materia si no tambi\u00e9n est\u00e1 relacionada con esta.": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.60036
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99493
+   }
+  ]
+ },
+ "Si la maestra es una gran persona que ha demostrado ser sin\u00f3nimo de confianza en todo momento.": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.95498
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.57906
+   }
+  ]
+ },
+ "Si, en todas las ocasiones que he solicitado su ayuda me la ha brindado con amabilidad.": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.63348
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99395
+   }
+  ]
+ },
+ "No lo s\u00e9, nunca solicite un espacio fuera de clase.": {
+  "emocion": [
+   {
+    "prediction": "surprise",
+    "probability": 0.53526
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.9307
+   }
+  ]
+ },
+ "Siempre me ha ayudado en las dificultades de la materia, realmente en el personal nunca lo he intentado, as\u00ed que no lo se.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.52041
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.98293
+   }
+  ]
+ },
+ "No, he tenido la necesidad de comunicarme con el docente fuera de clase": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.61921
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99747
+   }
+  ]
+ },
+ "El docentes se da cuenta de las dificultades y realiza las respectivas correcciones": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.90556
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99626
+   }
+  ]
+ },
+ "El docente intenta motivar actividades de investigaci\u00f3n, pero no funciona del todo por la tem\u00e1tica": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.72216
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.9966
+   }
+  ]
+ },
+ "Si y lo explica muy bien": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.54215
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.96475
+   }
+  ]
+ },
+ "S\u00ed, conoce mucho del tema": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.56957
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.93509
+   }
+  ]
+ },
+ "S\u00ed, brinda toda la ayuda necesaria": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.50006
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.98338
+   }
+  ]
+ },
+ "S\u00ed, brinda confianza y seguridad": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.99531
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.97741
+   }
+  ]
+ },
+ "S\u00ed, brinda un espacio de confianza, respeto y educaci\u00f3n": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.9149
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.80477
+   }
+  ]
+ },
+ "S\u00ed, siempre est\u00e1 dispuesta a ayudar": {
+  "emocion": [
+   {
+    "prediction": "surprise",
+    "probability": 0.30654
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.77447
+   }
+  ]
+ },
+ "S\u00ed, explica nuestros errores y retroalimenta": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.5062
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.9986
+   }
+  ]
+ },
+ "S\u00ed, el docente al impartir la clase desarrolla nuestra parte curiosa": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.4915
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.60976
+   }
+  ]
+ },
+ "Si creo .": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.48387
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.58837
+   }
+  ]
+ },
+ "A veces .": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.88786
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.64219
+   }
+  ]
+ },
+ "Nop": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.55526
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.83569
+   }
+  ]
+ },
+ "No, el itinerario est\u00e1 mal hecho y los que no fueron por el itinerario de datos valimos vrg": {
+  "emocion": [
+   {
+    "prediction": "surprise",
+    "probability": 0.35324
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.90273
+   }
+  ]
+ },
+ "Ni vergas": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.90135
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.63605
+   }
+  ]
+ },
+ "No, nosotros hacemos el amor con los talleres": {
+  "emocion": [
+   {
+    "prediction": "sadness",
+    "probability": 0.52224
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.97618
+   }
+  ]
+ },
+ "S\u00ed, pero chancadas": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.32712
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.9489
+   }
+  ]
+ },
+ "M\u00e1s acad\u00e9micas": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.83737
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.96183
+   }
+  ]
+ },
+ "Yo me pregunto mis dificultades y pregunto": {
+  "emocion": [
+   {
+    "prediction": "sadness",
+    "probability": 0.42471
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.56512
+   }
+  ]
+ },
+ "Totalmente": {
+  "emocion": [
+   {
+    "prediction": "sadness",
+    "probability": 0.98738
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.99942
+   }
+  ]
+ },
+ "Si, ya que siempre que tenemos una duda nos la aclara a la misma con mas ejercicios hasta que ya ninguno se puede perder\u00e1n el tema": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.69932
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99372
+   }
+  ]
+ },
+ "Si me demuestra confianza porque me ayuda para reforzar actividades o me ayuda ense\u00f1\u00e1ndome y aclarandome cosas peque\u00f1as que no entend\u00ed": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.86025
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.97471
+   }
+  ]
+ },
+ "Siempre es respetuoso y de gran ayuda": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.55772
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.99844
+   }
+  ]
+ },
+ "Siempre  que lo necesitamos, nos da un espacio el cual podemos comunicarnos de si hay inquietudes y de  m\u00e1s": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.99429
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.96973
+   }
+  ]
+ },
+ "Si nos ayuda d\u00e1ndonos refuerzos y sobre todo actividades para entender mejor": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.96301
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.90291
+   }
+  ]
+ },
+ "SI, ya que le puedo escribir por correo y nos responde en un  corto periodo de tiempo": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.73222
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99821
+   }
+  ]
+ },
+ "Si ya que nuestras dudas nuestra profesora est\u00e1 muy dispuesta a repetir algo o ayudarnos en algo que no entendimos": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.65406
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.93657
+   }
+  ]
+ },
+ "Siempre nos motiva en estos trabajos ya que si no conocemos algo investigamos ya sea el t\u00e9rmino o algo que no entendimos para dejar claras nuestras dudas": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.97924
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.92096
+   }
+  ]
+ },
+ "Si, es s\u00faper amable al momento de preguntarle cualquier cosa.": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.52463
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.98905
+   }
+  ]
+ },
+ "Si, busca cualquier forma para hacernos entender.": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.8139
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.98396
+   }
+  ]
+ },
+ "Si, nunca se burla de cualquier duda, y nos ayuda al m\u00e1ximo.": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.71986
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.97366
+   }
+  ]
+ },
+ "Si, despu\u00e9s de clase si tienes cualquier otra duda, que trate o no trate de verlo en clase, nos ayuda con sus conocimientos.": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.44293
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.98533
+   }
+  ]
+ },
+ "Si, ante cualquier dificultad acad\u00e9mica, siempre busca reforzar el tema en el que estemos mal.": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.9664
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99022
+   }
+  ]
+ },
+ "Si, podemos comunicarnos con ella a trav\u00e9s del Canvas, o despu\u00e9s de cualquier clase.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.87468
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99887
+   }
+  ]
+ },
+ "Si, de hecho cuando va a dictar una clase dif\u00edcil, siempre busca que pongamos atenci\u00f3n en lo que los estudiantes m\u00e1s tenemos dificultades.": {
+  "emocion": [
+   {
+    "prediction": "sadness",
+    "probability": 0.35899
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.9503
+   }
+  ]
+ },
+ "Si, nos brinda fuentes bibliogr\u00e1ficas en las cuales podemos obtener m\u00e1s informaci\u00f3n de cualquier tema.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.61621
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99848
+   }
+  ]
+ },
+ "Es un docente tan entregado, tan profesional y preparado, que est\u00e1 siempre dispuesto, y siempre lo hace de manera muy did\u00e1ctica e interesante.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.66061
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.65944
+   }
+  ]
+ },
+ "Cien por ciento. Sabe muy bien de su materia.": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.45084
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.84198
+   }
+  ]
+ },
+ "Cien por ciento. Es una de las profesoras m\u00e1s profesionales que he tenido.": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.59647
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.54973
+   }
+  ]
+ },
+ "Siempre.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.82251
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.998
+   }
+  ]
+ },
+ "Cien por ciento.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.76752
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.53464
+   }
+  ]
+ },
+ "S\u00ed, siempre. Su comunicaci\u00f3n es muy fluida.": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.65853
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.66891
+   }
+  ]
+ },
+ "Si es muy buen docente.": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.8298
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.93835
+   }
+  ]
+ },
+ "S\u00ed. Es muy buena clase. Me encant\u00f3.": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.65811
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.99849
+   }
+  ]
+ },
+ "SI, el docente siempre est\u00e1 dispuesto a": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.80402
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.88067
+   }
+  ]
+ },
+ "Si, el docente siempre muestra una actitud amigable de confianza": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.65951
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.73437
+   }
+  ]
+ },
+ "S\u00ed, el ambiente con el docente siempre ha sido respetuoso.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.83561
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.54998
+   }
+  ]
+ },
+ "Si, el docente siempre est\u00e1 dispuesto a aquello": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.47291
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.88921
+   }
+  ]
+ },
+ "S\u00ed, siempre se encuentra a disposici\u00f3n": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.63214
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99743
+   }
+  ]
+ },
+ "Si, ya que nos manifiesta donde podemos encontrarlo": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.44861
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.98086
+   }
+  ]
+ },
+ "Si, siempre esta al pendiente de nuestras necesidades acad\u00e9micas": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.64463
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.73743
+   }
+  ]
+ },
+ "casi siempre": {
+  "emocion": [
+   {
+    "prediction": "sadness",
+    "probability": 0.31069
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.99662
+   }
+  ]
+ },
+ "Si, siempre es muy atenta con las dudas de todos.": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.97714
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.90804
+   }
+  ]
+ },
+ "Si, ya que es muy atenta con nuestras dudas y sin juzgar la duda.": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.96833
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.7548
+   }
+  ]
+ },
+ "Siempre ha tenido problemas para explicar un tema m\u00e1s de una vez.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.87965
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.98984
+   }
+  ]
+ },
+ "S\u00ed, despu\u00e9s de sus presentaciones da un tiempo para aclarar cualquier inquietud que puedan tener los estudiantes.": {
+  "emocion": [
+   {
+    "prediction": "no-emotion",
+    "probability": 0.7364
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.9994
+   }
+  ]
+ },
+ "Si, nos aconseja mucho acerca de nuestra carrera y nos aconseja de como podr\u00edamos ser m\u00e1s proactivos.": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.92979
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.98929
+   }
+  ]
+ },
+ "Si, cuando necesito ayuda siempre presenta tiempo e inter\u00e9s.": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.88742
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.9667
+   }
+  ]
+ },
+ "Si, ya que es muy atenta con nuestras dudas.": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.96132
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.54283
+   }
+  ]
+ },
+ "Si, nos manda antes de las clases mucho material de apoyo para realizar una lectura comprensiva e investigaci\u00f3n por nuestra parte.": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.59371
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.9918
+   }
+  ]
+ },
+ "Si,pero no me sent\u00ed en la libertad de decirle, que no s\u00e9 muchas cosas de esta materia que estoy aprendiendo sent\u00ed que estaba dispuesto ayudar.pero muchas gracias.": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.40602
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.75396
+   }
+  ]
+ },
+ "No sent\u00ed que me diera confianza expresar lo que en realidad quer\u00eda decirle.": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.85387
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.79975
+   }
+  ]
+ },
+ "No se llego a eso.": {
+  "emocion": [
+   {
+    "prediction": "sadness",
+    "probability": 0.44395
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.86697
+   }
+  ]
+ },
+ "En lo acad\u00e9mico ped\u00ed apoyo, pero nunca me brindo, mis deberes que yo investigaba y no estaban de acuerdo a lo que el quer\u00eda me pon\u00eda CERO, fue en el 1er y 2do Bimestreme me sent\u00ed muy mal, pienso que ning\u00fan profesor debe de llegar a eso, el no sabe el esfuerzo que uno hace para cumplir, malas noches, ver v\u00eddeos y dem\u00e1s.   Gracias.": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.35974
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.85601
+   }
+  ]
+ },
+ "Si me dijo una vez no, no volver\u00e9 a molestar.": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.96355
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.95818
+   }
+  ]
+ },
+ "No hay respuesta": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.40769
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.95824
+   }
+  ]
+ },
+ "SI, constatemente responde de buena manera dudas de los estudiantes": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.99297
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.88979
+   }
+  ]
+ },
+ "Si, demuestra verdadera confianza": {
+  "emocion": [
+   {
+    "prediction": "fear",
+    "probability": 0.65798
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.81799
+   }
+  ]
+ },
+ "Si, siempre muestra respeto al fererirse a los estudiantes": {
+  "emocion": [
+   {
+    "prediction": "disgust",
+    "probability": 0.26391
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.59356
+   }
+  ]
+ },
+ "Si est\u00e1 en las horas de tutoria": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.98437
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.92519
+   }
+  ]
+ },
+ "Siempre ayuda en las academias": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.57317
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "emotional",
+    "probability": 0.89699
+   }
+  ]
+ },
+ "Si, mediante correo": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.98318
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.98692
+   }
+  ]
+ },
+ "Si las detecta con tiempo": {
+  "emocion": [
+   {
+    "prediction": "anger",
+    "probability": 0.97569
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.99904
+   }
+  ]
+ },
+ "Motiva a buscar aplicaciones de materia en \u00e1rea de salud": {
+  "emocion": [
+   {
+    "prediction": "joy",
+    "probability": 0.87735
+   }
+  ],
+  "rasgo": [
+   {
+    "prediction": "rational",
+    "probability": 0.97979
+   }
+  ]
+ }
+}

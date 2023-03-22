@@ -1,0 +1,413 @@
+{% extends './base.html' %} {% load static %}
+<!-- Index view -->
+{% block content %}
+<div class="ftco-blocks-cover-1">
+  <div class="ftco-cover-1 overlay">
+    <div class="container">
+      <div class="row align-items-center justify-content-center">
+        <div class="col-lg-7 text-center">
+          <h1 data-aos="fade-up" data-aos-delay="0">
+            ¡Hablemos de NebulaMinds!
+          </h1>
+          <p data-aos="fade-up" data-aos-delay="100">
+            ¡No te pierdas la oportunidad de conocer más sobre esta app y
+            descubre cómo puede ayudarte a entender mejor tu personalidad!
+          </p>
+          <p data-aos="fade-up" data-aos-delay="200">
+            <a href="{% url 'login' %}" class="btn primary-outline-white--hover"
+              >Ingresa al Sistema!</a
+            >
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="funcionamiento" class="features-v3">
+  <div class="container">
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-5">
+        <span class="text-primary">Funcionamiento</span>
+        <h2 class="mb-5">¿Cómo funciona nuestra solución?</h2>
+      </div>
+    </div>
+    <div class="row gutter-v1 justify-content-stretch">
+      <div class="col-lg-4">
+        <div class="feature-v3-item h-100">
+          <img
+            src="{% static 'landingpage/imgs/svg/survey.svg' %}"
+            alt="Image"
+            class="img-fluid"
+          />
+          <h3>1. Evalúa al Docente</h3>
+          <p>
+            Se define un cuestionario para que los estudiantes respondan
+            anónimamente desde la subjetividad.
+          </p>
+        </div>
+      </div>
+      <div class="col-lg-4">
+        <div class="feature-v3-item h-100">
+          <img
+            src="{% static 'landingpage/imgs/svg/upload.svg' %}"
+            alt="Image"
+            class="img-fluid"
+          />
+          <h3>2. Carga del dataset al Sistema</h3>
+          <p>Se sube los resultados obtenidos del cuestionario aplicado.</p>
+        </div>
+      </div>
+
+      <div class="col-lg-4">
+        <div class="feature-v3-item h-100">
+          <img
+            src="{% static 'landingpage/imgs/svg/cleasing.svg' %}"
+            alt="Image"
+            class="img-fluid"
+          />
+          <h3>3. Data Cleasing</h3>
+          <p>
+            Se corrige los errores sintácticos, ortográficos y de formato de los
+            datos, con el fin de asegurar que estén estandarizados y coherentes.
+          </p>
+        </div>
+      </div>
+
+      <div class="col-lg-4">
+        <div class="feature-v3-item h-100">
+          <img
+            src="{% static 'landingpage/imgs/svg/api.svg' %}"
+            alt="Image"
+            class="img-fluid"
+          />
+          <h3>4. Symanto API</h3>
+          <p>
+            Con la ayuda de esta API se hace procesamiento de lenguaje natural,
+            identificación de los rasgos y emociones que el estudiante
+            demuestra.
+          </p>
+        </div>
+      </div>
+
+      <div class="col-lg-4">
+        <div class="feature-v3-item h-100">
+          <img
+            src="{% static 'landingpage/imgs/svg/fuzzy.svg' %}"
+            alt="Image"
+            class="img-fluid"
+          />
+          <h3>5. Interpretación de la información con Lógica Difusa</h3>
+          <p>
+            Esta técnica permite la toma de decisiones y realizar cálculos de
+            situaciones en las que existe incertidumbre o imprecisión.
+          </p>
+        </div>
+      </div>
+      <div class="col-lg-4">
+        <div class="feature-v3-item h-100">
+          <img
+            src="{% static 'landingpage/imgs/svg/results.svg' %}"
+            alt="Image"
+            class="img-fluid"
+          />
+          <h3>6. Presentación de Resultados</h3>
+          <p>
+            Con los resultados generados, se presentará la valoración recibida y
+            así comprender lo que piensan sobre ti!.
+          </p>
+          <div class="more"><a href="#">Por si necesitamos poner algo</a></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="big5" class="container site-section">
+  <div class="row justify-content-center text-center mb-5">
+    <div class="col-md-5">
+      <span class="text-primary">Los 5 Grandes</span>
+      <h2 class="mb-4">¿Qué son los 5 Grandes de la psicología?</h2>
+      <p>
+        Es uno de los modelos más influyentes en la psicología de la
+        personalidad. Este modelo propone que la personalidad se puede describir
+        en términos de cinco dimensiones amplias.
+      </p>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-4">
+      <div class="feature-1">
+        <img
+          src="{% static 'landingpage/imgs/extrovertido.jpg' %}"
+          alt="Image"
+          class="img-fluid"
+        />
+        <div class="feature-1-contents">
+          <h2>Extraversión</h2>
+          <blockquote>
+            "La capacidad de ajustarse efectivamente a la realidad externa,
+            especialmente al ambiente social."
+            <cite>Gordon Allport</cite>
+          </blockquote>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4">
+      <div class="feature-1">
+        <img
+          src="{% static 'landingpage/imgs/amabilidad.jpg' %}"
+          alt="Image"
+          class="img-fluid"
+        />
+        <div class="feature-1-contents">
+          <h2>Amabilidad</h2>
+          <blockquote>
+            "La amabilidad es una llave mágica para abrir las puertas cerradas
+            del corazón humano."
+            <cite>Jean Baptiste Massieu</cite>
+          </blockquote>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4">
+      <div class="feature-1">
+        <img
+          src="{% static 'landingpage/imgs/est_emo.jpg' %}"
+          alt="Image"
+          class="img-fluid"
+        />
+        <div class="feature-1-contents">
+          <h2>Estabilidad Emocional</h2>
+          <blockquote>
+            "La tendencia de experimentar emociones negativas con poca
+            frecuencia y a ser capaz de recuperarse rápidamente de ellas."
+            <cite>Paul T. Costa Jr. y Robert R. McCrae</cite>
+          </blockquote>
+        </div>
+      </div>
+    </div>
+
+    <div class="row justify-content-md-center">
+      <div class="col-lg-4">
+        <div class="feature-1">
+          <img
+            src="{% static 'landingpage/imgs/responsabilidad.jpg' %}"
+            alt="Image"
+            class="img-fluid"
+          />
+          <div class="feature-1-contents">
+            <h2>Responsabilidad</h2>
+            <blockquote>
+              "La obligación que tenemos cada uno de nosotros de actuar de
+              acuerdo con nuestros valores y principios, y asumir las
+              consecuencias de nuestras decisiones."
+              <cite>Harry G. Frankfurt.</cite>
+            </blockquote>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4">
+        <div class="feature-1">
+          <img
+            src="{% static 'landingpage/imgs/ap_exp.jpg' %}"
+            alt="Image"
+            class="img-fluid"
+          />
+          <div class="feature-1-contents">
+            <h2>Apertura a Experiencias</h2>
+            <blockquote>
+              "Se caracteriza por la curiosidad intelectual, la creatividad, la
+              sensibilidad artística y la apreciación por la belleza."
+              <cite>Paul T. Costa Jr. y Robert R. McCrae</cite>
+            </blockquote>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="symantoAPI" class="site-section section-2">
+  <div class="container">
+    <div class="row justify-content-center text-center section-2-title">
+      <div class="col-md-7">
+        <span class="text-primary">Symanto API</span>
+        <h2 class="mb-2">¿Qué es y Cómo funciona Symanto API?</h2>
+        <p class="opacity-5">
+          Es una plataforma que ofrece diferentes soluciones incluyendo su
+          algoritmo de análisis semántico, que utiliza el procesamiento del
+          lenguaje natural para analizar grandes cantidades de datos y extraer
+          información significativa.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="container site-section">
+    <div class="row align-items-stretch feature-2">
+      <div class="col-lg-9 feature-2-img">
+        <img
+          src="{% static 'landingpage/imgs/rasgoAPI.jpg' %}"
+          alt="Image"
+          class="img-fluid"
+        />
+      </div>
+      <div class="col-lg-3 feature-2-contents pl-lg-5">
+        <div class="fixed-content">
+          <span class="caption">01.</span>
+          <h3 class="mb-4">Rasgos de Personalidad</h3>
+          <p class="opacity-5">
+            Permite reconocer el rasgo de personalidad del usuario a partir de
+            la tonalidad y el estilo lingüístico de su texto escrito, y devuelve
+            posibles respuestas junto con un valor porcentual de acierto. Esta
+            herramienta clasifica los textos como:
+          </p>
+          <p class="opacity-5">
+            Emocional: es empático, centrado en las relaciones y los valores
+            sociales..
+          </p>
+          <p class="opacity-5">
+            Racional: es objetivo y pragmático, centrado en los hechos y la
+            lógica.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container site-section">
+    <div class="row align-items-stretch feature-2">
+      <div class="col-lg-9 feature-2-img order-lg-2">
+        <img
+          src="{% static 'landingpage/imgs/emocionAPI.jpg' %}"
+          alt="Image"
+          class="img-fluid"
+        />
+      </div>
+      <div class="col-lg-3 feature-2-contents pr-lg-5">
+        <div class="fixed-content">
+          <span class="caption">02.</span>
+          <h3 class="mb-4">Análisis de emoción en texto</h3>
+          <p class="opacity-5">
+            Esta API permite la predicción de la emoción o sentimiento del autor
+            del texto.
+          </p>
+          <p class="opacity-5">
+            Utiliza el modelo de emociones universales de Paul Ekman para
+            detectar automáticamente siete emociones en el texto: enfado,
+            desprecio, asco, diversión, miedo, tristeza y sorpresa.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="grammarbot" class="container site-section">
+  <div class="row justify-content-center text-center mb-5">
+    <div class="col-md-6">
+      <span class="text-primary">GrammarBot</span>
+      <h2 class="mb-4">¿Por qué GrammarBot?</h2>
+    </div>
+  </div>
+
+  <div class="row justify-content-center">
+    <div class="col-lg-7">
+      <div class="row">
+        <div class="col-lg-6 mr-auto pr-lg-5">
+          <div class="feature-3">
+            <h3>Corrección automática</h3>
+            <p>
+              Permite automatizar el proceso de corrección de errores
+              gramaticales y de ortografía. Esto ahorra tiempo y esfuerzo al
+              evitar la necesidad de realizar una revisión manual.
+            </p>
+          </div>
+        </div>
+        <div class="col-lg-6 ml-auto pl-lg-5">
+          <div class="feature-3">
+            <h3>Mayor precisión</h3>
+            <p>
+              Utiliza algoritmos avanzados de procesamiento de lenguaje natural
+              para identificar errores gramaticales y de ortografía que podrían
+              pasar desapercibidos en una revisión manual.
+            </p>
+          </div>
+        </div>
+
+        <div class="col-lg-6 mr-auto pr-lg-5">
+          <div class="feature-3">
+            <h3>Personalización</h3>
+            <p>
+              Permite personalizar el nivel de corrección que necesita, se
+              ajusta al nivel de corrección para adaptarlo a las necesidades de
+              un proyecto, lo que permite obtener resultados precisos y
+              personalizados.
+            </p>
+          </div>
+        </div>
+        <div class="col-lg-6 ml-auto pl-lg-5">
+          <div class="feature-3">
+            <h3>Fácil integración</h3>
+            <p>
+              Está diseñada para ser fácilmente integrada a las aplicaciones y
+              sistemas. Puedes ser utilizada en combinación con lenguajes de
+              programación como Python, Java, y otros.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="team" class="site-section bg-light">
+  <div class="container">
+    <div class="row mb-5">
+      <div class="col-md-12 text-center">
+        <span class="text-primary">Desarrolladores</span>
+        <h2 class="site-section-heading">Equipo de Trabajo</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-6 col-lg-6 mb-4">
+        <div class="d-block block-testimony mx-auto text-center">
+          <div class="person w-25 mx-auto mb-4">
+            <img
+              src="{% static 'landingpage/imgs/dev1.jpg' %}"
+              alt="Image"
+              class="img-fluid rounded-circle w-50 mx-auto"
+            />
+          </div>
+          <div>
+            <h2 class="h5 mb-4">Daniel Ulloa</h2>
+            <blockquote>
+              &ldquo;Constancia vence inteligencia.&rdquo;
+            </blockquote>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-6 mb-4">
+        <div class="d-block block-testimony mx-auto text-center">
+          <div class="person w-25 mx-auto mb-4">
+            <img
+              src="{% static 'landingpage/imgs/dev2.jpg' %}"
+              alt="Image"
+              class="img-fluid rounded-circle w-50 mx-auto"
+            />
+          </div>
+          <div>
+            <h2 class="h5 mb-4">Johanna Tigre</h2>
+            <blockquote>
+              &ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+              Alias accusantium qui optio, possimus necessitatibus voluptate
+              aliquam velit nostrum tempora ipsam!&rdquo;
+            </blockquote>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}

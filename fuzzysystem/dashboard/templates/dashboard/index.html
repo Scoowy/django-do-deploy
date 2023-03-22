@@ -1,0 +1,270 @@
+{% extends './base.html' %} {% block headjs %}
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.2.1/dist/chart.umd.min.js"></script>
+{% endblock headjs %} {% block content %}
+<section class="py-3">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-9">
+        <h1 class="font-weight-bold mb-0">Bienvenida Johanna</h1>
+        <p class="lead text-muted">Esta es tu información analizada</p>
+      </div>
+      <div class="col-lg-3 d-flex">
+        <a id="btn-download-report" href="{% url 'download' %}" class="btn btn-primary w-100 align-self-center">Descargar
+          reporte</a>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="bg-mix">
+  <div class="container">
+    <div class="card rounded-0">
+      <div class="card-body">
+        <h2>Selecciona un componente:</h2>
+        <form method="POST" enctype="multipart/form-data">
+          {% csrf_token %}
+          <div>
+            <select id="professorSelector" class="form-control" name="professor" required>
+              <option value="" selected disabled>Seleccione docente</option>
+              {% for professor in professors %}
+              <option value="{{professor}}">{{professor}}</option>
+              {% endfor %}
+            </select>
+            <select id="courseSelector" class="form-control" name="course" required disabled></select>
+          </div>
+          <input type="hidden" name="filename" value="{{filename}}">
+          <br>
+          <div class="container text-center">
+            <button id="filterbtn" type="submit" class="btn btn-primary w-50 align-self-center" disabled>
+              Buscar
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="bg-mix">
+  <div class="container">
+    <div class="card rounded-0">
+      <div class="card-body">
+        <div class="row">
+          <div class="col-lg-3 d-flex stat my-3">
+            <div class="mx-auto">
+              <h6 class="text-muted">Estudiantes evaluados</h6>
+              <h5 class="text-success">{{totalStudents}}</h5>
+            </div>
+          </div>
+          <div class="col-lg-3 d-flex stat my-3">
+            <div class="mx-auto">
+              <h6 class="text-muted">Componente</h6>
+              <h5 class="text-success">{{courseSelected}}</h5>
+            </div>
+          </div>
+          <div class="col-lg-3 d-flex stat my-3">
+            <div class="mx-auto">
+              <h6 class="text-muted">Docente</h6>
+              <h5 class="text-success">{{professorSelected}}</h5>
+            </div>
+          </div>
+          <div class="col-lg-3 d-flex my-3">
+            <div class="mx-auto">
+              <h6 class="text-muted">Total de respuestas</h6>
+              <h5 class="text-success">{{totalResponses}}</h5>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="bg-grey">
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <div class="card rounded-0">
+          <div class="card-header bg-light">
+            <h6 class="font-weight-bold mb-0">Personalidades obtenidas</h6>
+          </div>
+          <div class="card-body">
+            <div>
+              <canvas id="myChart"></canvas>
+            </div>
+
+            <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+            <script>
+              const labelsAll = JSON.parse("{{dataEmotions.emotions|escapejs}}");
+              const dataAll = JSON.parse("{{dataEmotions.values|escapejs}}");
+              const ctx = document.getElementById("myChart");
+
+              const inverseData = dataAll.map((value) => 100.0 - value);
+
+              let labels = []
+              let data = []
+
+              for (let i = 0; i < labelsAll.length; i+=2) {
+                labels.push(labelsAll[i])
+                data.push(dataAll[i])
+              }
+
+              new Chart(ctx, {
+                type: "bar",
+                data: {
+                  labels: labels,
+                  datasets: [
+                    {
+                      data: data,
+                      backgroundColor: [
+                        'rgba(255, 99, 132, 0.2)',
+                        'rgba(255, 159, 64, 0.2)',
+                        'rgba(255, 205, 86, 0.2)',
+                        'rgba(75, 192, 192, 0.2)',
+                        'rgba(54, 162, 235, 0.2)',
+                        'rgba(153, 102, 255, 0.2)',
+                        'rgba(201, 203, 207, 0.2)'
+                      ],
+                      borderWidth: 1,
+                      maxBarThickness: 100,
+                    },
+                  ],
+                },
+                options: {
+                  plugins: {
+                    legend: {
+                      display: false
+                    }
+                  }
+                },
+                scales: {
+                  y: {
+                    beginAtZero: true,
+                  },
+                },
+              });
+            </script>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!--CARACTERISTICAS BIG FIVE-->
+<section class="bg-mix">
+  <div class="container">
+    <div class="card rounded-0">
+      <div class="card-body">
+        <div class="container px-4 py-5">
+          <h2 class="pb-2 border-bottom text-center">Caracteríticas Big Five</h2>
+
+          <div class="col">
+            <div class="row row-cols-1 row-cols-sm-2  ">
+              <div class="col d-flex flex-column gap-2 container text-center">
+                <div
+                  class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-warning bg-gradient fs-4 rounded-3">
+                  <i class="icon ion-md-hand"></i>
+                </div>
+                <h4 class="fw-semibold mb-0">Responsabilidad</h4>
+                <p class="text-muted"> Organizado, fiable, consistente, planificador </p>
+              </div>
+
+              <div class="col d-flex flex-column gap-2 container text-center">
+                <div
+                  class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-warning bg-gradient fs-4 rounded-3">
+                  <i class="icon ion-md-heart"></i>
+                </div>
+                <h4 class="fw-semibold mb-0">Apertura a experiencias</h4>
+                <p class="text-muted">Creativo, curioso, sensible a la estética, receptivo al cambio, tolerante, liberal
+                </p>
+              </div>
+
+              <div class="col d-flex flex-column gap-2 container text-center">
+                <div
+                  class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-warning bg-gradient fs-4 rounded-3">
+                  <i class="icon ion-md-happy"></i>
+                </div>
+                <h4 class="fw-semibold mb-0">Extrovertido</h4>
+                <p class="text-muted">Sociable, amistoso, hablador, enérgico, inclinado al liderazgo</p>
+              </div>
+
+              <div class="col d-flex flex-column gap-2 container text-center">
+                <div
+                  class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-warning bg-gradient fs-4 rounded-3">
+                  <i class="icon ion-md-body"></i>
+                </div>
+                <h4 class="fw-semibold mb-0">Estabilidad emocional</h4>
+                <p class="text-muted">Tranquilo, seguro de sí mismo, audaz, emocionalmente estable, sin preocupaciones
+                </p>
+              </div>
+
+              <div class="col d-flex flex-column gap-2 container text-center">
+                <div
+                  class="feature-icon-small d-inline-flex align-items-center justify-content-center text-bg-warning bg-gradient fs-4 rounded-3">
+                  <i class="icon ion-md-bonfire"></i>
+                </div>
+                <h4 class="fw-semibold mb-0">Amabilidad</h4>
+                <p class="text-muted">Amistoso, compasivo, crédulo, cooperativo, confiado, listo para comprometerse</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+</section>
+
+<script>
+  const professorDropdown = document.getElementById("professorSelector");
+  const courseDropdown = document.getElementById("courseSelector");
+  const filterBtn = document.getElementById("filterbtn");
+  const downloadReportBtn = document.getElementById("btn-download-report");
+
+  const professorsWithCourses = JSON.parse(
+    "{{professorsWithCourses|escapejs}}"
+  );
+
+  professorDropdown.addEventListener("change", (e) => {
+    // console.log(e.target.value);
+    // console.log(professorsWithCourses);
+
+    courses = professorsWithCourses[e.target.value];
+
+    let courseElements = "";
+
+    courseElements = courses.map(
+      (course) => `<option value="${course}">${course}</option>`
+    );
+    console.log(courseElements);
+    courseDropdown.innerHTML = courseElements;
+
+    courseDropdown.removeAttribute("disabled");
+    filterBtn.removeAttribute("disabled");
+  });
+
+  downloadReportBtn.addEventListener("click", (e) => {
+    e.preventDefault();
+
+    const emotions = JSON.parse("{{dataEmotions.emotions|escapejs}}");
+    const values = JSON.parse("{{dataEmotions.values|escapejs}}");
+    const professor = "{{professorSelected}}";
+    const course = "{{courseSelected}}";
+
+    const download_url = "{% url 'download' %}"
+
+    const emotionsWithValues = {};
+
+    emotions.forEach(
+      (emotion, index) => (emotionsWithValues[emotion] = values[index])
+    );
+
+    console.log(emotionsWithValues, professor, course);
+
+    window.location.assign(
+      `${download_url}?preview=true&professor=${professor}&course=${course}&emotions=${JSON.stringify(
+        emotionsWithValues
+      )}`
+    );
+  });
+</script>
+
+{% endblock %}

@@ -1,0 +1,156 @@
+{% extends './base.html' %} {% load arrays_extras static %} {% block headjs %}
+<script src="{% static 'dashboard/js/printable.js' %}"></script>
+{% comment %}
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.2.1/dist/chart.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"></script>
+{% endcomment %} {% endblock headjs %} {% block content %}
+<section>
+  <div class="container">
+    <div class="card rounded-0">
+      <div class="card-body">
+        <h1 class="Principal-Title2 text-center">Análisis de perfil docente</h1>
+        <h4 class="pdf-text"><strong>Docente:</strong> {{professor}}</h4>
+        <h4 class="pdf-text"><strong>Componente:</strong> {{course}}</h4>
+
+        <section class="py-3 px-3">
+          {% tupled_values emotions values as emoval %}
+          <!-- Graph -->
+          <div class="plots">
+            {% for emotion, value in emoval %}
+            <div class="plot">
+              <div class="graph">
+                <div
+                  class="emotion"
+                  style="height: 2rem; width: {{value|tuple_index:0}}%;"
+                >
+                  <span>{{value|tuple_index:0}}%</span>
+                </div>
+                <div
+                  class="desemotion"
+                  style="height: 2rem; width: {{value|tuple_index:1}}%;"
+                >
+                  <span>{{value|tuple_index:1}}%</span>
+                </div>
+              </div>
+              <div class="description">
+                <p class="emotion-text">{{emotion|tuple_index:0}}</p>
+                <p class="desemotion-text">{{emotion|tuple_index:1}}</p>
+              </div>
+            </div>
+            {% endfor %}
+          </div>
+
+          <!-- End Graph -->
+        </section>
+        <br class="printable" />
+        <br class="printable" />
+        <br class="printable" />
+        <br class="printable" />
+        <br class="printable" />
+        <br class="printable" />
+        <br class="printable" />
+        <br class="printable" />
+        <br class="printable" />
+        <br />
+        <h1 class="Principal-Title2 text-center">Análisis Big Five</h1>
+        <div></div>
+        <br />
+        <div class="container text-center">
+          <table class="table table-striped">
+            <thead>
+              <tr>
+                <th scope="col"></th>
+                <th scope="col"></th>
+                <th scope="col"></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><strong>Responsabilidad</strong></td>
+                <td><p>Organizado, fiable, consistente, planificador</p></td>
+              </tr>
+              <tr>
+                <td><strong>Poco consciente</strong></td>
+                <td><p>Despreocupado, relajado, espontáneo, creativo</p></td>
+              </tr>
+              <tr>
+                <td><strong>Apertura a experiencias</strong></td>
+                <td>
+                  <p>
+                    Creativo, curioso, sensible a la estética, receptivo al
+                    cambio, tolerante, liberal
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td><strong>Cierre a experiencias</strong></td>
+                <td>
+                  <p>
+                    Realista, pragmático, arriesgado, reacio, racional,
+                    conservador, directo
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td><strong>Extrovertido</strong></td>
+                <td>
+                  <p>
+                    Sociable, amistoso, hablador, enérgico, inclinado al
+                    liderazgo
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td><strong>Introversión</strong></td>
+                <td>
+                  <p>
+                    Solitario, reservado, relajado, serio, orientado al equipo
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td><strong>Estabilidad emocional </strong></td>
+                <td>
+                  <p>
+                    Tranquilo, seguro de sí mismo, audaz, emocionalmente
+                    estable, sin preocupaciones
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td><strong>Neurotismo</strong></td>
+                <td><p>Ansioso, pensativo, impulsivo, autoconsciente</p></td>
+              </tr>
+              <tr>
+                <td><strong>Amabilidad</strong></td>
+                <td>
+                  <p>
+                    Amistoso, compasivo, crédulo, cooperativo, confiado, listo
+                    para comprometerse
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td><strong>Antagonismo </strong></td>
+                <td>
+                  <p>Asertivo, escéptico, autónomo, indiferente, inflexible</p>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <div class="container text-center no_printable">
+          <button
+            id="filterbtn"
+            type="submit"
+            class="btn btn-warning w-50 align-self-center"
+          >
+            Descargar
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{% endblock content %}

@@ -1,0 +1,218 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+  overflow: hidden;
+}
+
+body {
+  background: linear-gradient(90deg, #f7f7f7, #ffff);
+}
+
+.bg_image {
+  background-image: url("../../landingpage/imgs/background.jpg");
+  background-size: cover;
+  background-position: center;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+/*#4766a3 , #003f72*/
+/*#eaab00, #f3c200*/
+.screen {
+  background: linear-gradient(90deg, #4766a3, #003f72);
+  position: relative;
+  height: 600px;
+  width: 360px;
+  box-shadow: 0px 0px 24px #5c5696;
+}
+.bg_image::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(
+    255,
+    255,
+    255,
+    0.5
+  ); /* Establecer el color de fondo con opacidad */
+}
+
+.screen__content {
+  z-index: 1;
+  position: relative;
+  height: 100%;
+  overflow: hidden;
+}
+
+.screen__background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+  -webkit-clip-path: inset(0 0 0 0);
+  clip-path: inset(0 0 0 0);
+}
+
+.screen__background__shape {
+  transform: rotate(45deg);
+  position: absolute;
+}
+
+.screen__background__shape1 {
+  height: 520px;
+  width: 520px;
+  background: #f7f7f7;
+  top: -50px;
+  right: 120px;
+  border-radius: 0 72px 0 0;
+}
+
+.screen__background__shape2 {
+  height: 220px;
+  width: 220px;
+  background: #4766a3;
+  top: -172px;
+  right: 0;
+  border-radius: 32px;
+}
+
+.screen__background__shape3 {
+  height: 540px;
+  width: 190px;
+  background: linear-gradient(270deg, #4c6ca7, #003f72);
+  top: -24px;
+  right: 0;
+  border-radius: 32px;
+}
+
+.screen__background__shape4 {
+  height: 400px;
+  width: 200px;
+  background: #4766a3;
+  top: 420px;
+  right: 50px;
+  border-radius: 60px;
+}
+
+.login {
+  width: 320px;
+  padding: 30px;
+  padding-top: 156px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.login__field {
+  padding: 20px 0px;
+  position: relative;
+}
+
+.login__icon {
+  position: absolute;
+  top: 30px;
+  color: #003f72;
+}
+
+.login__title {
+  font-size: 30px;
+  color: #003f72;
+}
+
+.login__input {
+  border: none;
+  border-bottom: 2px solid #d1d1d4;
+  background: none;
+  padding: 10px;
+  padding-left: 24px;
+  font-weight: 700;
+  /* width: 75%; */
+  transition: 0.2s;
+}
+
+.login__input:active,
+.login__input:focus,
+.login__input:hover {
+  outline: none;
+  border-bottom-color: #003f72;
+}
+
+.login__submit {
+  background: #f7f7f7;
+  font-size: 14px;
+  margin-top: 30px;
+  padding: 16px 20px;
+  border-radius: 26px;
+  border: 1px solid #d4d3e8;
+  text-transform: uppercase;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  color: #003f72;
+  box-shadow: 0px 1px 1px #003f72;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.login__submit:active,
+.login__submit:focus,
+.login__submit:hover {
+  border-color: #003f72;
+  outline: none;
+}
+
+/* Estilos para dispositivos móviles con ancho de pantalla menor a 600px */
+
+@media screen and (max-width: 991) {
+  /* Ajuste de estilos generales */
+  body {
+    font-size: 16px;
+  }
+
+  /* Ajuste de estilos para la pantalla */
+  .screen {
+    height: auto;
+    width: 100%;
+    box-shadow: none;
+  }
+
+  /* Ajuste de estilos para el fondo */
+  .screen__background {
+    display: none;
+  }
+
+  /* Ajuste de estilos para el formulario de login */
+  .login {
+    width: 100%;
+    padding: 20px;
+    padding-top: 100px;
+  }
+
+  /* Ajuste de estilos para los campos de input */
+  .login__input {
+    width: 100%;
+    font-size: 16px;
+  }
+
+  /* Ajuste de estilos para el botón de submit */
+  .login__submit {
+    font-size: 16px;
+    padding: 14px 20px;
+  }
+}
