@@ -12,7 +12,7 @@ RUN pip3 install -r requirements.txt
 
 RUN chmod +x /fuzzysystem/entrypoint.sh
 
-VOLUME .
+VOLUME /fuzzysystem
 
 EXPOSE 8000
 
