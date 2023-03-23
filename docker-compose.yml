@@ -1,0 +1,17 @@
+version: "3.1" # pointing volume to db
+
+services:
+  fuzzysystem-app:
+    container_name: fuzzysystem-container
+    build: ./fuzzysystem
+    restart: always
+    ports:
+      - 80:8000 # we'll use port 5000 for django
+    environment:
+      - DJANGO_ENV=production
+      - DJANGO_DEBUG=True
+      - DJANGO_SYMANTO_API_KEY=6dd8dcb6acmsh0ae0691ab41c058p119ad5jsnd876ea394d69
+    volumes:
+      - ./fuzzysystem:/fuzzysystem  # djangoapp mounted to docker from current directory
+    command: ./fuzzysystem/entrypoint.sh # execute bashfile we've created before
+
