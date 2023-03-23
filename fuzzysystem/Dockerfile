@@ -11,6 +11,7 @@ WORKDIR /fuzzysystem
 RUN pip3 install -r requirements.txt
 
 RUN chmod +x /fuzzysystem/entrypoint.sh
+RUN chmod -R 777 media/
 
 VOLUME /fuzzysystem
 
