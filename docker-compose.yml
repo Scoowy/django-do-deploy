@@ -10,7 +10,7 @@ services:
     environment:
       - DJANGO_ENV=production
       - DJANGO_DEBUG=True
-      - DJANGO_SYMANTO_API_KEY=6dd8dcb6acmsh0ae0691ab41c058p119ad5jsnd876ea394d69
+      - DJANGO_SYMANTO_API_KEY=702443a15fmshaf72ed7c9617cacp1b1771jsn1e701a1c6be8
     volumes:
       - ./fuzzysystem:/fuzzysystem  # djangoapp mounted to docker from current directory
     command: ./fuzzysystem/entrypoint.sh # execute bashfile we've created before
