@@ -30,12 +30,12 @@ if DEBUG:
     ALLOWED_HOSTS = ['localhost',
                      '127.0.0.1',
                      '.platformsh.site',
-                     '67.205.151.231']
+                     '137.184.74.171']
 else:
     ALLOWED_HOSTS = ['localhost',
                      '127.0.0.1',
                      '.platformsh.site',
-                     '67.205.151.231']
+                     '137.184.74.171']
 
 
 # Application definition
